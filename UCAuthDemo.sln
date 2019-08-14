@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "myAuthDemo", "myAuthDemo\myAuthDemo.csproj", "{3F34665F-0D06-437D-B60F-A140BA5588F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notes", "Notes", "{B1CAF8FD-10C0-4115-8AA4-E28B947EA39B}"
+	ProjectSection(SolutionItems) = preProject
+		UC19-NET Core Identity Story.pptx = UC19-NET Core Identity Story.pptx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F34665F-0D06-437D-B60F-A140BA5588F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F34665F-0D06-437D-B60F-A140BA5588F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F34665F-0D06-437D-B60F-A140BA5588F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F34665F-0D06-437D-B60F-A140BA5588F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4106548-A457-489F-BBA6-760878643723}
+	EndGlobalSection
+EndGlobal
